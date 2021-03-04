@@ -1,0 +1,12 @@
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\bin\Debug\MailUserAgent.exe.config
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\bin\Debug\MailUserAgent.exe
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\bin\Debug\MailUserAgent.pdb
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\bin\Debug\S22.Imap.dll
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.csprojAssemblyReference.cache
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.Properties.Resources.resources
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.csproj.GenerateResource.cache
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.csproj.CoreCompileInputs.cache
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.csproj.CopyComplete
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.exe
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.pdb
+C:\Users\cpole\source\repos\MailUserAgent\MailUserAgent\obj\Debug\MailUserAgent.LAB4.resources
