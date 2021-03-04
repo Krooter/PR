@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmVoXrD3WOElCnKN12UAp0X+z/jahGgOHayDtNDfJJLm1iGtKw5UIKhu6rCQrB2RTnVKRx4DWgcKpnHiBK+83w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpole\\source\\repos\\ChatClient\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpole\\.nuget\\packages\\supersimpletcp\\2.3.0.1\\supersimpletcp.2.3.0.1.nupkg.sha512",
+    "C:\\Users\\cpole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
