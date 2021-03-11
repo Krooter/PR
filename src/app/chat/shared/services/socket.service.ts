@@ -5,7 +5,7 @@ import { Message } from '../model/message';
 import { Event } from '../model/event';
 import * as socketIo from 'socket.io-client';
 
-const SERVER_URL = 'https://kroochat.azurewebsites.net';
+const SERVER_URL = 'https://kroochat.azurewebsites.net:8080';
 
 @Injectable()
 export class SocketService {
