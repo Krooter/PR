@@ -1,6 +1,8 @@
-import express from "express";
+import * as express from "express";
+import * as cors from "cors";
 import * as http from "http";
 import { Message } from "./model";
+
 
 export class ChatServer {
   public static readonly PORT:number = 8080;
@@ -18,7 +20,9 @@ export class ChatServer {
   }
 
   private createApp(): void {
-    this.app = express();
+    this.app = require('cors');
+    this.app.use('cors');
+    this.app = require('express');
   }
 
   private createServer(): void {

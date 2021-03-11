@@ -1,7 +1,6 @@
 "use strict";
 exports.__esModule = true;
 exports.ChatServer = void 0;
-var express_1 = require("express");
 var http = require("http");
 var ChatServer = /** @class */ (function () {
     function ChatServer() {
@@ -12,7 +11,10 @@ var ChatServer = /** @class */ (function () {
         this.listen();
     }
     ChatServer.prototype.createApp = function () {
-        this.app = express_1();
+        this.app = require('cors');
+        var cors = require('cors');
+        this.app = cors();
+        this.app = require('express');
     };
     ChatServer.prototype.createServer = function () {
         this.server = http.createServer(this.app);
